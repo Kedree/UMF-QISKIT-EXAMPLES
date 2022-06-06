@@ -5,3 +5,4 @@ One can make quantum circuit with qubits as such:
 ```
 As an example of a simple circuit:
 ```qc=QuantumCircuit(2,2)```
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
