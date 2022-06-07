@@ -4,7 +4,7 @@ One can make quantum circuit with qubits as such:
 
 As an example of a simple circuit:
 ```qc = QuantumCircuit(2,2)```
-Classical bits and the name are optional components that can be added on.
+'Classical bits' and 'name' are optional components that can be added in.
 
 To see a representation of our circuit we can use the code below:
 ```'Circuit Name'.draw('Optionals available, see Representation documentation')```
@@ -13,4 +13,4 @@ The most simple form of this command is as follows:
 ```'Circuit Name.draw()'```
 
 This will print a plot that should look like this:
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](BasicCircuit.png?raw=true "Optional Title")
