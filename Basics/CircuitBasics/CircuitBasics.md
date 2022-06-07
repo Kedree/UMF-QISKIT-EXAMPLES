@@ -1,22 +1,32 @@
 # Circuit Basics
 
-### Making A Simple Circuit
+### Circuit Code
+
 Basic Quantum Circuits can be made quite easily but more complexities can be added:
 One can make quantum circuit with qubits as such:
+
 ```
 'Circuit Name' = QuantumCircuit('# Qubits', '# Classical Bits', name="Name")
 ```
 
-As an example of a simple circuit:
+'Classical bits' and 'name' are optional components that can be added in.
+
+### Making A Simple Circuit
+
+An example of a simple circuit is as follows:
 ```
 qc = QuantumCircuit(2,2)
 ```
-'Classical bits' and 'name' are optional components that can be added in.
+
+### Simple Circuit Representation Code
 
 To see a representation of our circuit we can use the code below:
+
 ```
 'Circuit Name'.draw('Optionals available, see Representation documentation')
 ```
+
+### Circuit Representation
 
 The most simple form of this command is as follows using the above simple circuit with the variable name of 'qc':
 ```
