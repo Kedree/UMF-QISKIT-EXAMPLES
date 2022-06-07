@@ -8,7 +8,7 @@ This GITHUB will attempt to provide everything neccesary for someone to pick up 
 
 If you would like to learn the basics you can ![Click Here!](Basics/CircuitBasics/CircuitBasics.md)
 
-If you are reading this **future _Quantum Researcher_**, ~~I am already gone~~. *cue sad music*
+If you are reading this **future _Quantum Researcher_**, ~~I am already gone. *cue sad music*~~
 
  > -Kedree Proffitt<sub> ImSubScript!</sub><sup>ANDIMSUPER</sup>
 
