@@ -12,10 +12,10 @@ If you are reading this future Quantum Researcher, I am already gone. *cue sad m
 
  **- __Kedree Proffitt__**
  
-![Here Is A CheatSheet For Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[Here Is A CheatSheet For Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-![Here Is How To Use LATEX](<https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions>)
+[Here Is How To Use LATEX](<https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions>)
 
-![Here Is A LaTeX CheatSheet](<https://people.cs.umass.edu/~freedman/resources/Freedman_LaTeXCheatSheet.pdf>)
+[Here Is A LaTeX CheatSheet](<https://people.cs.umass.edu/~freedman/resources/Freedman_LaTeXCheatSheet.pdf>)
 
 ![Test Photo](TESTSTUFF/SCHROCAT.jpg?raw=true "Schrodingers Test Cat")
