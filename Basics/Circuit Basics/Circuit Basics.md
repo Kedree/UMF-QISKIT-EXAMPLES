@@ -15,7 +15,7 @@ To see a representation of our circuit we can use the code below:
 'Circuit Name'.draw('Optionals available, see Representation documentation')
 ```
 
-The most simple form of this command is as follows:
+The most simple form of this command is as follows using the above simple circuit named 'qc':
 ```
 'Circuit Name'.draw()
 ```
