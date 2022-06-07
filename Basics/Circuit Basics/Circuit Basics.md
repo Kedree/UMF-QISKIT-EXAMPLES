@@ -17,7 +17,7 @@ To see a representation of our circuit we can use the code below:
 
 The most simple form of this command is as follows using the above simple circuit with the variable name of 'qc':
 ```
-'Circuit Name'.draw()
+'qc'.draw()
 ```
 
 This will print a plot that should look like this:
