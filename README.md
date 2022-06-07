@@ -10,7 +10,7 @@ If you would like to learn the basics you can ![Click Here!](Basics/CircuitBasic
 
 If you are reading this future Quantum Researcher, I am already gone. *cue sad music*
 
- **- __Kedree Proffitt__**
+ > ** - __ Kedree Proffitt __ **
  
 [Here Is A CheatSheet For Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
