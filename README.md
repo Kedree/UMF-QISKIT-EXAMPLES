@@ -8,4 +8,4 @@ This GITHUB will attempt to provide everything neccesary for someone to pick up 
 
 If you are reading this future Quantum Researcher, I am already gone. *cue sad music*
  **- __Kedree Proffitt__**
-![Here Is A CheatSheet For Markdown]<https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
+![Here Is A CheatSheet For Markdown]https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
