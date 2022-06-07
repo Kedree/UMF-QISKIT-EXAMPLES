@@ -8,9 +8,9 @@ This GITHUB will attempt to provide everything neccesary for someone to pick up 
 
 If you would like to learn the basics you can ![Click Here!](Basics/CircuitBasics/CircuitBasics.md)
 
-If you are reading this future Quantum Researcher, I am already gone. *cue sad music*
+If you are reading this ** future __ Quantum Researcher __ **, I am already gone. *cue sad music*
 
- > ** - __ Kedree Proffitt __ **
+ > - Kedree Proffitt
  
 [Here Is A CheatSheet For Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
