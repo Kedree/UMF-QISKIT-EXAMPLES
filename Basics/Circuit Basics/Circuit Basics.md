@@ -12,4 +12,6 @@ To see a representation of our circuit we can use the code below:
 The most simple form of this command is as follows:
 ```'Circuit Name.draw()'```
 
-This will print a plot that should look like this:      ![Alt text](BasicCircuit.PNG?raw=true "Optional Title")
+This will print a plot that should look like this:
+
+!(BasicCircuit.PNG?raw=true "Optional Title")
