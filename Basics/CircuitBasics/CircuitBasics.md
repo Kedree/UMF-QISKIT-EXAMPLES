@@ -1,5 +1,7 @@
 # Circuit Basics
 
+##Circuit Creation and Representation (Testing to show different heading sizes)
+
 ### Circuit Code
 
 Basic Quantum Circuits can be made quite easily but more complexities can be added:
