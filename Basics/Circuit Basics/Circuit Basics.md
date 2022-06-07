@@ -15,3 +15,5 @@ The most simple form of this command is as follows:
 This will print a plot that should look like this:
 
 ![Basic Circuit](BasicCircuit.PNG?raw=true "Optional Title")
+
+The above plot shows a quantum circuit which consists of two qubits (qubit 0 or q0 and qubit 1 or q1) starting from zero as programmers love zero. Alongside these two qubits is the two classical bits, these are put together onto one line graphically and are only used for measuring a quantum state.
