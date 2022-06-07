@@ -14,4 +14,4 @@ The most simple form of this command is as follows:
 
 This will print a plot that should look like this:
 
-!(BasicCircuit.PNG?raw=true "Optional Title")
+![Basic Circuit](BasicCircuit.PNG?raw=true "Optional Title")
