@@ -1,6 +1,6 @@
-#Circuit Basics
+# Circuit Basics
 
-###Making A Simple Circuit
+### Making A Simple Circuit
 Basic Quantum Circuits can be made quite easily but more complexities can be added:
 One can make quantum circuit with qubits as such:
 ```
