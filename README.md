@@ -10,9 +10,9 @@ If you would like to learn the basics you can ![Click Here!](Basics/CircuitBasic
 
 If you are reading this **future _Quantum Researcher_**, ~~I am already gone. *cue sad music*~~ ***Dope***
 
- > -Kedree Proffitt<sub> ImSubScript!</sub><sup>ANDIMSUPER</sup>
+ > -Kedree Proffitt
 
-1. First list item
+1. First list item<sub> ImSubScript!</sub><sup>ANDIMSUPER</sup>
    - First nested list item
      - Second nested list item
 
