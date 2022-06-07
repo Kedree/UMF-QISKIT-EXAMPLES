@@ -12,7 +12,7 @@ If you are reading this future Quantum Researcher, I am already gone. *cue sad m
 
  **- __Kedree Proffitt__**
  
-![Here Is A CheatSheet For Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+![Here Is A CheatSheet For Markdown]([https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax))
 
 ![Here Is How To Use LATEX](<https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions>)
 
