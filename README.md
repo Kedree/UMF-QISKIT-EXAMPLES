@@ -16,4 +16,4 @@ If you are reading this future Quantum Researcher, I am already gone. *cue sad m
 
 ![Here Is A LaTeX CheatSheet](https://people.cs.umass.edu/~freedman/resources/Freedman_LaTeXCheatSheet.pdf)
 
-![Test Photo](TESTSTUFF/SCHROCAT.JPG?raw=true "Schrodingers Test Cat")
+![Test Photo](SCHROCAT.JPG?raw=true "Schrodingers Test Cat")
