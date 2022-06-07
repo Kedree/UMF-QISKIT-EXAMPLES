@@ -8,9 +8,9 @@ This GITHUB will attempt to provide everything neccesary for someone to pick up 
 
 If you would like to learn the basics you can ![Click Here!](Basics/CircuitBasics/CircuitBasics.md)
 
-If you are reading this **future _Quantum Researcher_**, I am already gone. *cue sad music*
+If you are reading this **future _Quantum Researcher_**, ~~I am already gone~~. *cue sad music*
 
- > - Kedree Proffitt
+ > - Kedree Proffitt<sub> ImSubScript!</sub>
  
 [Here Is A CheatSheet For Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
