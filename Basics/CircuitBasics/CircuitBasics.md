@@ -1,6 +1,6 @@
 # Circuit Basics
 
-##Circuit Creation and Representation (Testing to show different heading sizes)
+## Circuit Creation and Representation (Testing to show different heading sizes)
 
 ### Circuit Code
 
