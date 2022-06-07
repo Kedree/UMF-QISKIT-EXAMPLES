@@ -19,6 +19,8 @@ If you are reading this **future _Quantum Researcher_**, ~~I am already gone. *c
 - [x] Do Science
 - [ ] Understand Quantum Mechanics
 - [ ] Prosper :tada:
+
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
  
 [Here Is A CheatSheet For Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
