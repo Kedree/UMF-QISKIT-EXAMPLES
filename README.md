@@ -10,7 +10,7 @@ If you would like to learn the basics you can ![Click Here!](Basics/CircuitBasic
 
 If you are reading this **future _Quantum Researcher_**, ~~I am already gone~~. *cue sad music*
 
- > '-' Kedree Proffitt<sub> ImSubScript!</sub><sup>ANDIMSUPER</sup>
+ > -Kedree Proffitt<sub> ImSubScript!</sub><sup>ANDIMSUPER</sup>
  
 [Here Is A CheatSheet For Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
