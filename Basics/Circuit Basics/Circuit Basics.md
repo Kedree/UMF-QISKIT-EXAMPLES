@@ -13,4 +13,4 @@ The most simple form of this command is as follows:
 ```'Circuit Name.draw()'```
 
 This will print a plot that should look like this:
-![Alt text](Basics/Circuit_Basics/BasicCircuit.PNG?raw=true "Optional Title")
+![Alt text](Circuit Basics/BasicCircuit.PNG?raw=true "Optional Title")
