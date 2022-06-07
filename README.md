@@ -7,5 +7,7 @@ This GITHUB serves as the index and collective knowledge base for Dr. ALsup's Qu
 This GITHUB will attempt to provide everything neccesary for someone to pick up right where we left off or allow someone to easily find information about code they need to analyze or add.
 
 If you are reading this future Quantum Researcher, I am already gone. *cue sad music*
+
  **- __Kedree Proffitt__**
+ 
 ![Here Is A CheatSheet For Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
