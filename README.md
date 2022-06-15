@@ -1,4 +1,4 @@
-# **University of Michigan - Flint QISKIT DOCUMENTATION for Dr. Alsup's Research Group**
+# **University of Michigan - Flint Qiskit Documentation for Dr. Alsup's Research Group**
 
 This GITHUB serves as the index and collective knowledge base for Dr. ALsup's Quantum Information research project.
 
