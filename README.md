@@ -10,4 +10,10 @@ Good luck!!!
 
  > - Kedree Proffitt
 
+[Here Is A CheatSheet For Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+[Here Is How To Use LATEX](<https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions>)
+
+[Here Is A LaTeX CheatSheet](<https://people.cs.umass.edu/~freedman/resources/Freedman_LaTeXCheatSheet.pdf>)
+
 ![Intro Photo](INTROPHOTO.jpg?raw=true "Introduction Photo")
