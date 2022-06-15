@@ -16,4 +16,4 @@ Good luck!!!
 
 [Here Is A LaTeX CheatSheet](<https://people.cs.umass.edu/~freedman/resources/Freedman_LaTeXCheatSheet.pdf>)
 
-![Intro Photo](INTROPHOTO.jpg?raw=true "Introduction Photo")
+![Intro Photo](Photos/PHOTOINTRO.jpg?raw=true "Introduction photo")
