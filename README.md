@@ -4,7 +4,7 @@ This GITHUB serves as the index and collective knowledge base for Dr. ALsup's Qu
 
 This GITHUB will attempt to provide everything neccesary for someone to pick up right where we left off or allow someone to easily find information about code they need to analyze or add.
 
-If you would like to learn the basics you can ![Click Here!](Basics/CircuitBasics/CircuitBasics.md)
+If you would like to learn the basics you can ![Click Here!](Basics/Circuit_Basics.ipynb)
 
 Good luck!!!
 
