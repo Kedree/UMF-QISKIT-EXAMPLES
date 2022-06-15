@@ -10,4 +10,4 @@ Good luck!!!
 
  > - Kedree Proffitt
 
-![Test Photo](TESTSTUFF/SCHROCAT.jpg?raw=true "Schrodingers Test Cat")
+![Intro Photo](INTROPHOTO.jpg?raw=true "Introduction Photo")
