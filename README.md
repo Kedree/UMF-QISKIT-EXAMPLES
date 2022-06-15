@@ -29,4 +29,4 @@ $$\Huge \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \ri
 
 [Here Is A LaTeX CheatSheet](<https://people.cs.umass.edu/~freedman/resources/Freedman_LaTeXCheatSheet.pdf>)
 
-![Intro Photo](Photos/INTROPHOTO.jpg?raw=true "Introduction photo")
+![Intro Photo](Photos/PHOTOINTRO.jpg?raw=true "Introduction photo")
