@@ -22,7 +22,7 @@ titles = ['000','001','010','011','100','101','110','111']
 
 for stateNum in range(len(states)):
     state = states[stateNum]
-    probs = [np.abs((~state @ ex(H, t) @ (One^One^One)).eval())**2 for t in ts] # Change this
+    probs = [np.abs((~state @ ex(H, t) @ (Zero^One^One)).eval())**2 for t in ts] # Change this
     title = titles[stateNum]
     
     tempdf['data'] = probs
@@ -36,7 +36,7 @@ grid = sns.FacetGrid(df, col='col', row='row', hue='state', palette='hls', heigh
 grid.map(pyplot.plot, 'data')
 
 for ax,title in zip(grid.axes.flatten(),titles):
-    ax.set_title("<"+title+"| e^(-iHt) |111>") # And this
+    ax.set_title("<"+title+"| e^(-iHt) |011>") # And this
 
 grid.set_axis_labels('Time', 'Probability')
 grid.add_legend()
